@@ -1,0 +1,1 @@
+This is a simple python image generation project. The purpose of the project is to monitor crop health using NDVI vegetation index. The main.py file takes in an rgb file as an input, processes it by adding a Near Infrared band to it and use the resultant image to generate an NDVI image and also print NDVI values in the console. 
